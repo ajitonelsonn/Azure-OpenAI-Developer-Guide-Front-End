@@ -1,1 +1,1 @@
-export const BACKEND_URI = 'dg7zltwcsdlfomsregistry.azurecr.io';
+export const BACKEND_URI = 'test';
